@@ -1,0 +1,7 @@
+algorithm,sensors,ape_fixed_translation_rmse_m,rpe_fixed_10m_translation_rmse_m
+KISS-ICP,LiDAR,6.452,0.627
+KISS-SLAM,LiDAR,1.610,0.609
+FAST-LIO,LiDAR + IMU,3.973,0.599
+LIO-SAM,LiDAR + IMU,0.916,0.557
+R3LIVE,LiDAR + IMU + Camera,2.283,1.299
+FAST-LIVO2,LiDAR + IMU + Camera,0.982,0.565
