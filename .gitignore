@@ -1,0 +1,22 @@
+# Local credentials and private notes
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets/
+private/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor, operating-system, and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
